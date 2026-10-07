@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,product_id,product_name,category,quantity,price,customer_city,payment_method
+ORD00101,21-07-2026,CUST0033,P002,Smartphone,Electronics,5,26103.99,Bengaluru,Debit Card
+ORD00102,08-08-2026,CUST0040,P015,Smart Watch,Electronics,5,6345.2,Kochi,Net Banking
+ORD00103,16-07-2026,CUST0001,P008,Running Shoes,Footwear,5,3671.71,Delhi,Credit Card
+ORD00104,01-07-2026,CUST0053,P008,Running Shoes,Footwear,4,4426.03,Mumbai,Cash
+ORD00105,23-07-2026,CUST0060,P005,Mouse,Electronics,3,982.39,Bengaluru,UPI
+ORD00106,05-08-2026,CUST0035,P002,Smartphone,Electronics,3,23407.01,Hyderabad,Net Banking
+ORD00107,02-07-2026,CUST0055,P005,Mouse,Electronics,3,863.16,Coimbatore,Credit Card
+ORD00108,07-08-2026,CUST0036,P007,Backpack,Accessories,4,1998.3,Coimbatore,Net Banking
+ORD00109,18-08-2026,CUST0056,P013,Desk Lamp,Home & Kitchen,5,1335.16,Coimbatore,Net Banking
+ORD00110,27-07-2026,CUST0037,P005,Mouse,Electronics,4,903.5,Chennai,Net Banking
+ORD00111,19-08-2026,CUST0009,P004,Keyboard,Electronics,1,2049.87,Bengaluru,Net Banking
+ORD00112,31-07-2026,CUST0010,P007,Backpack,Accessories,4,2007.53,Bengaluru,Cash
+ORD00113,31-07-2026,CUST0046,P011,Coffee Maker,Home Appliances,5,5089.16,Coimbatore,UPI
+ORD00114,21-08-2026,CUST0042,P009,T-Shirt,Clothing,5,953.55,Coimbatore,Cash
+ORD00115,19-07-2026,CUST0054,P004,Keyboard,Electronics,3,1535.01,Hyderabad,Net Banking
+ORD00116,21-08-2026,CUST0034,P008,Running Shoes,Footwear,4,4023.52,Mumbai,UPI
+ORD00117,01-08-2026,CUST0030,P012,Water Bottle,Home & Kitchen,5,756.01,Kochi,Cash
+ORD00118,12-08-2026,CUST0059,P009,T-Shirt,Clothing,1,989.48,Pune,Cash
+ORD00119,21-08-2026,CUST0007,P015,Smart Watch,Electronics,4,6869.2,Delhi,Cash
+ORD00120,12-07-2026,CUST0028,P015,Smart Watch,Electronics,4,7358.27,Delhi,Cash
+ORD00121,07-07-2026,CUST0013,P006,Office Chair,Furniture,4,7598.21,Chennai,Credit Card
+ORD00122,29-07-2026,CUST0038,P001,Laptop,Electronics,5,62130.94,Bengaluru,Net Banking
+ORD00123,13-07-2026,CUST0016,P013,Desk Lamp,Home & Kitchen,1,1243.59,Delhi,UPI
+ORD00124,01-07-2026,CUST0021,P003,Headphones,Electronics,5,2555.71,Kochi,Debit Card
+ORD00125,15-07-2026,CUST0031,P009,T-Shirt,Clothing,5,800.43,Delhi,Credit Card
+ORD00126,12-08-2026,CUST0011,P007,Backpack,Accessories,2,1953.06,Delhi,Net Banking
+ORD00127,25-07-2026,CUST0052,P007,Backpack,Accessories,2,1810.82,Mumbai,Cash
+ORD00128,07-07-2026,CUST0025,P001,Laptop,Electronics,1,47597.69,Pune,UPI
+ORD00129,19-08-2026,CUST0002,P015,Smart Watch,Electronics,1,6520.26,Pune,UPI
+ORD00130,21-07-2026,CUST0059,P008,Running Shoes,Footwear,1,4196.94,Kochi,Net Banking
+ORD00131,21-08-2026,CUST0011,P010,Jeans,Clothing,2,1849.28,Mumbai,Cash
+ORD00132,22-07-2026,CUST0030,P010,Jeans,Clothing,5,1656,Bengaluru,Net Banking
+ORD00133,03-07-2026,CUST0013,P007,Backpack,Accessories,2,1554.43,Chennai,Cash
+ORD00134,18-08-2026,CUST0042,P014,Book,Books,2,497.58,Chennai,Debit Card
+ORD00135,03-08-2026,CUST0014,P011,Coffee Maker,Home Appliances,5,6151.12,Hyderabad,Debit Card
+ORD00136,12-07-2026,CUST0025,P011,Coffee Maker,Home Appliances,3,5376.83,Coimbatore,Credit Card
+ORD00137,20-07-2026,CUST0012,P007,Backpack,Accessories,3,1624.34,Kochi,Cash
+ORD00138,22-08-2026,CUST0027,P013,Desk Lamp,Home & Kitchen,3,1188.37,Pune,Net Banking
+ORD00139,29-07-2026,CUST0008,P008,Running Shoes,Footwear,5,4573.72,Delhi,Credit Card
+ORD00140,14-07-2026,CUST0015,P014,Book,Books,1,568.05,Kochi,UPI
+ORD00141,04-08-2026,CUST0051,P007,Backpack,Accessories,2,2049.05,Pune,Debit Card
+ORD00142,05-08-2026,CUST0044,P006,Office Chair,Furniture,5,9244.1,Mumbai,Credit Card
+ORD00143,15-08-2026,CUST0018,P010,Jeans,Clothing,5,1935.67,Mumbai,Net Banking
+ORD00144,06-08-2026,CUST0018,P005,Mouse,Electronics,5,800.81,Delhi,Credit Card
+ORD00145,11-07-2026,CUST0007,P007,Backpack,Accessories,1,1939.92,Hyderabad,Credit Card
+ORD00146,21-07-2026,CUST0018,P009,T-Shirt,Clothing,5,991.1,Delhi,UPI
+ORD00147,17-07-2026,CUST0017,P003,Headphones,Electronics,1,2135.4,Delhi,Cash
+ORD00148,04-07-2026,CUST0007,P001,Laptop,Electronics,2,47129.13,Bengaluru,Credit Card
+ORD00149,05-08-2026,CUST0037,P011,Coffee Maker,Home Appliances,3,5194.71,Kochi,Net Banking
+ORD00150,11-08-2026,CUST0046,P011,Coffee Maker,Home Appliances,5,4737.72,Coimbatore,UPI

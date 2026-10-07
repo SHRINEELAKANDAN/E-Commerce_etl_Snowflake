@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,product_id,product_name,category,quantity,price,customer_city,payment_method
+ORD00151,11-08-2026,CUST0005,P008,Running Shoes,Footwear,4,3692.9,Kochi,Credit Card
+ORD00152,23-08-2026,CUST0023,P010,Jeans,Clothing,4,1776.38,Chennai,Net Banking
+ORD00153,15-08-2026,CUST0058,P006,Office Chair,Furniture,4,7701.54,Delhi,Cash
+ORD00154,23-08-2026,CUST0066,P004,Keyboard,Electronics,1,1739.24,Bengaluru,Cash
+ORD00155,08-08-2026,CUST0041,P004,Keyboard,Electronics,5,1725.21,Kochi,Cash
+ORD00156,14-08-2026,CUST0034,P007,Backpack,Accessories,4,1956.06,Mumbai,Cash
+ORD00157,27-08-2026,CUST0022,P009,T-Shirt,Clothing,2,928.67,Hyderabad,Credit Card
+ORD00158,03-08-2026,CUST0011,P005,Mouse,Electronics,3,959.11,Pune,UPI
+ORD00159,04-08-2026,CUST0033,P011,Coffee Maker,Home Appliances,1,5565.8,Delhi,Credit Card
+ORD00160,10-08-2026,CUST0028,P003,Headphones,Electronics,4,2836.92,Kochi,Debit Card
+ORD00161,17-08-2026,CUST0053,P012,Water Bottle,Home & Kitchen,2,755.35,Chennai,Debit Card
+ORD00162,19-08-2026,CUST0029,P010,Jeans,Clothing,4,1929.18,Mumbai,Debit Card
+ORD00163,14-08-2026,CUST0029,P004,Keyboard,Electronics,2,1612.59,Chennai,Credit Card
+ORD00164,02-08-2026,CUST0061,P005,Mouse,Electronics,1,772.48,Bengaluru,Debit Card
+ORD00165,13-08-2026,CUST0050,P009,T-Shirt,Clothing,1,779.33,Bengaluru,Debit Card
+ORD00166,11-08-2026,CUST0019,P002,Smartphone,Electronics,1,24960.98,Coimbatore,UPI
+ORD00167,25-08-2026,CUST0051,P011,Coffee Maker,Home Appliances,1,5060.15,Hyderabad,Cash
+ORD00168,02-08-2026,CUST0009,P008,Running Shoes,Footwear,1,3573.49,Hyderabad,Credit Card
+ORD00169,19-08-2026,CUST0057,P003,Headphones,Electronics,1,2304.5,Hyderabad,UPI
+ORD00170,14-08-2026,CUST0005,P015,Smart Watch,Electronics,2,6601.97,Bengaluru,Credit Card
+ORD00171,02-08-2026,CUST0028,P001,Laptop,Electronics,1,49084.54,Delhi,Cash
+ORD00172,11-08-2026,CUST0034,P002,Smartphone,Electronics,4,26126.69,Bengaluru,UPI
+ORD00173,31-08-2026,CUST0006,P013,Desk Lamp,Home & Kitchen,5,1214.57,Kochi,Credit Card
+ORD00174,01-08-2026,CUST0048,P009,T-Shirt,Clothing,1,975.68,Chennai,Net Banking
+ORD00175,11-08-2026,CUST0062,P004,Keyboard,Electronics,4,1825.89,Chennai,UPI
+ORD00176,03-08-2026,CUST0037,P007,Backpack,Accessories,4,1777.61,Mumbai,Net Banking
+ORD00177,13-08-2026,CUST0056,P014,Book,Books,5,515.16,Kochi,Credit Card
+ORD00178,05-08-2026,CUST0036,P012,Water Bottle,Home & Kitchen,2,710.47,Mumbai,UPI
+ORD00179,31-08-2026,CUST0041,P002,Smartphone,Electronics,1,25087.98,Coimbatore,Debit Card
+ORD00180,09-08-2026,CUST0020,P013,Desk Lamp,Home & Kitchen,3,1308.4,Pune,Credit Card
+ORD00181,12-08-2026,CUST0030,P011,Coffee Maker,Home Appliances,5,4794.28,Coimbatore,Debit Card
+ORD00182,18-08-2026,CUST0049,P015,Smart Watch,Electronics,2,5852.16,Delhi,Cash
+ORD00183,11-08-2026,CUST0032,P012,Water Bottle,Home & Kitchen,4,738.92,Mumbai,Debit Card
+ORD00184,21-08-2026,CUST0035,P013,Desk Lamp,Home & Kitchen,4,1093.78,Coimbatore,Debit Card
+ORD00185,16-08-2026,CUST0004,P015,Smart Watch,Electronics,3,6041.55,Chennai,UPI
+ORD00186,09-08-2026,CUST0025,P010,Jeans,Clothing,4,1757.84,Coimbatore,UPI
+ORD00187,02-08-2026,CUST0058,P005,Mouse,Electronics,2,830.84,Delhi,UPI
+ORD00188,27-08-2026,CUST0001,P007,Backpack,Accessories,5,1804.16,Chennai,Credit Card
+ORD00189,14-08-2026,CUST0061,P003,Headphones,Electronics,5,2748.55,Pune,Net Banking
+ORD00190,04-08-2026,CUST0040,P011,Coffee Maker,Home Appliances,1,5342.01,Delhi,Credit Card
+ORD00191,09-08-2026,CUST0012,P001,Laptop,Electronics,1,48512.58,Pune,Net Banking
+ORD00192,09-08-2026,CUST0022,P011,Coffee Maker,Home Appliances,4,4937.03,Hyderabad,Debit Card
+ORD00193,01-08-2026,CUST0051,P013,Desk Lamp,Home & Kitchen,4,1335.17,Bengaluru,Net Banking
+ORD00194,21-08-2026,CUST0034,P015,Smart Watch,Electronics,2,5638.02,Hyderabad,UPI
+ORD00195,21-08-2026,CUST0034,P005,Mouse,Electronics,2,897.24,Bengaluru,UPI
+ORD00196,20-08-2026,CUST0024,P011,Coffee Maker,Home Appliances,3,4708.13,Kochi,Credit Card
+ORD00197,11-08-2026,CUST0014,P004,Keyboard,Electronics,3,1963.41,Bengaluru,Net Banking
+ORD00198,24-08-2026,CUST0039,P007,Backpack,Accessories,1,1794.46,Bengaluru,Cash
+ORD00199,04-08-2026,CUST0002,P006,Office Chair,Furniture,2,8975.73,Coimbatore,Credit Card
+ORD00200,17-08-2026,CUST0007,P010,Jeans,Clothing,3,1875.74,Coimbatore,Credit Card

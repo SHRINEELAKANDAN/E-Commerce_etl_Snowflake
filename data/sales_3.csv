@@ -1,0 +1,101 @@
+order_id,order_date,customer_id,product_id,product_name,category,quantity,price,customer_city,payment_method
+ORD00001,12-03-2026,CUST0016,P011,Coffee Maker,Home Appliances,1,4716.27,Mumbai,Debit Card
+ORD00002,20-05-2026,CUST0006,P012,Water Bottle,Home & Kitchen,1,737.11,Coimbatore,Credit Card
+ORD00003,10-05-2026,CUST0039,P001,Laptop,Electronics,1,50357.53,Chennai,Net Banking
+ORD00004,25-04-2026,CUST0038,P004,Keyboard,Electronics,5,1756.54,Delhi,Credit Card
+ORD00005,29-03-2026,CUST0018,P013,Desk Lamp,Home & Kitchen,2,1271.33,Hyderabad,Debit Card
+ORD00006,08-04-2026,CUST0007,P013,Desk Lamp,Home & Kitchen,3,1056.8,Pune,UPI
+ORD00007,28-04-2026,CUST0035,P010,Jeans,Clothing,3,1965.85,Bengaluru,Cash
+ORD00008,10-06-2026,CUST0040,P002,Smartphone,Electronics,5,23448.84,Pune,Net Banking
+ORD00009,28-02-2026,CUST0019,P004,Keyboard,Electronics,1,1554.75,Bengaluru,Debit Card
+ORD00010,27-04-2026,CUST0024,P014,Book,Books,1,482.02,Hyderabad,UPI
+ORD00011,29-06-2026,CUST0005,P006,Office Chair,Furniture,2,8933.95,Hyderabad,Net Banking
+ORD00012,08-04-2026,CUST0018,P012,Water Bottle,Home & Kitchen,2,629.31,Mumbai,UPI
+ORD00013,09-01-2026,CUST0021,P014,Book,Books,1,459.36,Coimbatore,UPI
+ORD00014,26-05-2026,CUST0021,P002,Smartphone,Electronics,2,28098.52,Mumbai,Cash
+ORD00015,05-02-2026,CUST0016,P007,Backpack,Accessories,4,1607.15,Delhi,Net Banking
+ORD00016,26-02-2026,CUST0009,P007,Backpack,Accessories,5,1745.68,Kochi,Credit Card
+ORD00017,09-02-2026,CUST0011,P013,Desk Lamp,Home & Kitchen,1,1330,Coimbatore,Net Banking
+ORD00018,30-04-2026,CUST0034,P002,Smartphone,Electronics,4,24112.14,Delhi,Net Banking
+ORD00019,30-01-2026,CUST0035,P014,Book,Books,1,527.04,Delhi,UPI
+ORD00020,27-04-2026,CUST0001,P002,Smartphone,Electronics,3,24510.74,Delhi,Net Banking
+ORD00021,28-01-2026,CUST0020,P013,Desk Lamp,Home & Kitchen,2,1202.77,Mumbai,Debit Card
+ORD00022,16-05-2026,CUST0001,P006,Office Chair,Furniture,2,8600.42,Pune,Cash
+ORD00023,20-03-2026,CUST0016,P001,Laptop,Electronics,1,62080.13,Chennai,Debit Card
+ORD00024,22-01-2026,CUST0032,P015,Smart Watch,Electronics,5,7371.55,Bengaluru,Net Banking
+ORD00025,02-05-2026,CUST0036,P013,Desk Lamp,Home & Kitchen,2,1066.22,Hyderabad,UPI
+ORD00026,24-02-2026,CUST0035,P009,T-Shirt,Clothing,5,879.25,Mumbai,UPI
+ORD00027,13-05-2026,CUST0029,P007,Backpack,Accessories,3,1766.57,Bengaluru,Debit Card
+ORD00028,31-05-2026,CUST0036,P004,Keyboard,Electronics,1,1712.57,Mumbai,Net Banking
+ORD00029,11-06-2026,CUST0004,P004,Keyboard,Electronics,1,1568.34,Mumbai,Credit Card
+ORD00030,19-01-2026,CUST0033,P015,Smart Watch,Electronics,1,7201.29,Mumbai,UPI
+ORD00031,03-02-2026,CUST0037,P011,Coffee Maker,Home Appliances,4,5028.49,Kochi,Debit Card
+ORD00032,18-02-2026,CUST0007,P013,Desk Lamp,Home & Kitchen,4,1310.7,Bengaluru,Cash
+ORD00033,14-01-2026,CUST0007,P006,Office Chair,Furniture,4,8273.31,Chennai,Cash
+ORD00034,28-01-2026,CUST0016,P012,Water Bottle,Home & Kitchen,3,763.12,Mumbai,Debit Card
+ORD00035,16-02-2026,CUST0018,P009,T-Shirt,Clothing,4,802.85,Kochi,Debit Card
+ORD00036,21-05-2026,CUST0007,P014,Book,Books,1,491.47,Chennai,Net Banking
+ORD00037,02-03-2026,CUST0011,P014,Book,Books,1,570.35,Coimbatore,Cash
+ORD00038,16-01-2026,CUST0011,P008,Running Shoes,Footwear,2,4659.46,Coimbatore,Credit Card
+ORD00039,27-04-2026,CUST0019,P007,Backpack,Accessories,3,2030.32,Coimbatore,Net Banking
+ORD00040,17-03-2026,CUST0014,P011,Coffee Maker,Home Appliances,4,4930.41,Chennai,Net Banking
+ORD00041,22-03-2026,CUST0004,P012,Water Bottle,Home & Kitchen,5,607.8,Chennai,Net Banking
+ORD00042,16-05-2026,CUST0011,P008,Running Shoes,Footwear,5,4728.43,Chennai,Net Banking
+ORD00043,18-01-2026,CUST0016,P002,Smartphone,Electronics,2,21763.91,Coimbatore,Credit Card
+ORD00044,02-06-2026,CUST0003,P015,Smart Watch,Electronics,5,6005.12,Bengaluru,Cash
+ORD00045,22-03-2026,CUST0017,P011,Coffee Maker,Home Appliances,5,5607.62,Mumbai,UPI
+ORD00046,21-06-2026,CUST0020,P004,Keyboard,Electronics,3,1743.72,Kochi,UPI
+ORD00047,09-06-2026,CUST0037,P015,Smart Watch,Electronics,1,5543.17,Bengaluru,Credit Card
+ORD00048,03-02-2026,CUST0023,P009,T-Shirt,Clothing,2,901.59,Bengaluru,Debit Card
+ORD00049,20-05-2026,CUST0020,P006,Office Chair,Furniture,3,7627.25,Chennai,Net Banking
+ORD00050,04-02-2026,CUST0017,P005,Mouse,Electronics,1,1018.51,Bengaluru,Credit Card
+ORD00051,14-03-2026,CUST0039,P012,Water Bottle,Home & Kitchen,5,627.64,Mumbai,UPI
+ORD00052,06-03-2026,CUST0004,P004,Keyboard,Electronics,3,1802.92,Bengaluru,Cash
+ORD00053,27-03-2026,CUST0009,P014,Book,Books,3,431.61,Delhi,Debit Card
+ORD00054,20-04-2026,CUST0036,P012,Water Bottle,Home & Kitchen,4,710.85,Chennai,Credit Card
+ORD00055,05-04-2026,CUST0038,P002,Smartphone,Electronics,2,25341.93,Hyderabad,Cash
+ORD00056,11-01-2026,CUST0023,P003,Headphones,Electronics,1,2356.19,Mumbai,Debit Card
+ORD00057,24-05-2026,CUST0027,P011,Coffee Maker,Home Appliances,1,5258.57,Hyderabad,Debit Card
+ORD00058,15-02-2026,CUST0027,P014,Book,Books,2,571.43,Chennai,Debit Card
+ORD00059,16-04-2026,CUST0016,P012,Water Bottle,Home & Kitchen,3,759.3,Delhi,Debit Card
+ORD00060,10-01-2026,CUST0031,P013,Desk Lamp,Home & Kitchen,1,1157.72,Mumbai,Debit Card
+ORD00061,28-02-2026,CUST0015,P014,Book,Books,4,477.45,Chennai,Debit Card
+ORD00062,18-01-2026,CUST0018,P007,Backpack,Accessories,3,1680.45,Pune,Net Banking
+ORD00063,08-01-2026,CUST0008,P007,Backpack,Accessories,5,1708.82,Delhi,Debit Card
+ORD00064,02-06-2026,CUST0028,P010,Jeans,Clothing,3,1550.66,Pune,UPI
+ORD00065,30-01-2026,CUST0025,P007,Backpack,Accessories,5,2061.49,Mumbai,UPI
+ORD00066,18-05-2026,CUST0013,P001,Laptop,Electronics,4,46777.91,Pune,Cash
+ORD00067,19-06-2026,CUST0008,P002,Smartphone,Electronics,3,25923.67,Delhi,Net Banking
+ORD00068,28-06-2026,CUST0019,P005,Mouse,Electronics,4,853.07,Hyderabad,Debit Card
+ORD00069,14-02-2026,CUST0040,P007,Backpack,Accessories,4,1895.75,Delhi,Cash
+ORD00070,23-02-2026,CUST0028,P009,T-Shirt,Clothing,1,847.05,Pune,Cash
+ORD00071,11-05-2026,CUST0031,P008,Running Shoes,Footwear,4,4421.29,Hyderabad,Credit Card
+ORD00072,08-06-2026,CUST0022,P005,Mouse,Electronics,5,944.24,Bengaluru,Debit Card
+ORD00073,20-02-2026,CUST0010,P011,Coffee Maker,Home Appliances,3,5045.66,Chennai,Credit Card
+ORD00074,19-01-2026,CUST0030,P004,Keyboard,Electronics,4,1860.09,Coimbatore,Net Banking
+ORD00075,04-03-2026,CUST0010,P004,Keyboard,Electronics,4,1796.96,Chennai,Credit Card
+ORD00076,28-06-2026,CUST0034,P013,Desk Lamp,Home & Kitchen,4,1098.78,Kochi,Credit Card
+ORD00077,01-02-2026,CUST0030,P009,T-Shirt,Clothing,2,1012.72,Hyderabad,Cash
+ORD00078,02-06-2026,CUST0021,P011,Coffee Maker,Home Appliances,5,6305.02,Kochi,Net Banking
+ORD00079,21-05-2026,CUST0029,P014,Book,Books,5,489.01,Hyderabad,Cash
+ORD00080,13-06-2026,CUST0018,P008,Running Shoes,Footwear,3,4517.24,Kochi,Debit Card
+ORD00081,15-03-2026,CUST0016,P005,Mouse,Electronics,4,785.92,Delhi,UPI
+ORD00082,08-02-2026,CUST0015,P006,Office Chair,Furniture,5,7430.47,Coimbatore,Debit Card
+ORD00083,15-04-2026,CUST0022,P012,Water Bottle,Home & Kitchen,2,608.49,Kochi,Cash
+ORD00084,10-04-2026,CUST0038,P001,Laptop,Electronics,2,60492.7,Chennai,Net Banking
+ORD00085,01-04-2026,CUST0020,P007,Backpack,Accessories,4,1533.18,Coimbatore,Cash
+ORD00086,26-02-2026,CUST0032,P009,T-Shirt,Clothing,5,980.96,Mumbai,UPI
+ORD00087,28-03-2026,CUST0026,P007,Backpack,Accessories,4,1545.67,Hyderabad,Cash
+ORD00088,17-05-2026,CUST0002,P015,Smart Watch,Electronics,2,7437.41,Coimbatore,Net Banking
+ORD00089,20-04-2026,CUST0009,P010,Jeans,Clothing,1,1575.33,Kochi,Debit Card
+ORD00090,24-02-2026,CUST0030,P001,Laptop,Electronics,3,53005.21,Pune,UPI
+ORD00091,18-04-2026,CUST0017,P013,Desk Lamp,Home & Kitchen,4,1120.17,Bengaluru,Cash
+ORD00092,31-03-2026,CUST0015,P001,Laptop,Electronics,5,47609.41,Bengaluru,Credit Card
+ORD00093,21-02-2026,CUST0002,P013,Desk Lamp,Home & Kitchen,1,1361.86,Hyderabad,Debit Card
+ORD00094,25-05-2026,CUST0014,P003,Headphones,Electronics,4,2627.09,Kochi,UPI
+ORD00095,05-06-2026,CUST0008,P013,Desk Lamp,Home & Kitchen,3,1080.4,Hyderabad,UPI
+ORD00096,21-03-2026,CUST0037,P002,Smartphone,Electronics,5,21442.59,Coimbatore,Cash
+ORD00097,26-06-2026,CUST0016,P012,Water Bottle,Home & Kitchen,2,610.96,Bengaluru,UPI
+ORD00098,25-05-2026,CUST0003,P014,Book,Books,5,545.83,Pune,Net Banking
+ORD00099,15-06-2026,CUST0022,P007,Backpack,Accessories,3,1567.24,Chennai,Cash
+ORD00100,03-04-2026,CUST0030,P014,Book,Books,4,440.83,Hyderabad,Cash
