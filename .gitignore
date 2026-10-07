@@ -1,9 +1,19 @@
+# Python virtual environments
 salesEnv/
-desktop.ini
-__pycache__/
-*.pyc
 .venv/
 venv/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Secrets and local environment settings
 .env
 .env.*
+
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# macOS file — harmless to keep ignored
 .DS_Store
